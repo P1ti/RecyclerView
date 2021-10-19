@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    
+    <string-array name="programming_languages">
+        <item>C++</item>
+        <item>C</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>Kotlin</item>
+        <item>Ruby</item>
+        <item>Phyton</item>
+        <item>Swift</item>
+    </string-array>
+    
+    <string-array name="descriptions">
+        <item>Random description used for leaerning recycler view</item>
+        <item>Random description used for leaerning recycler view</item>
+        <item>Random description used for leaerning recycler view</item>
+        <item>Random description used for leaerning recycler view</item>
+        <item>Random description used for leaerning recycler view</item>
+        <item>Random description used for leaerning recycler view</item>
+        <item>Random description used for leaerning recycler view</item>
+        <item>Random description used for leaerning recycler view</item>
+    </string-array>
+</resources>
